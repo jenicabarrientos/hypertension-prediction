@@ -1,2 +1,3 @@
 # hypertension-prediction
- In this study, the researcher uses Exploratory Data and Applied Classification Analysis to predict if whether or not a patient has a hypertension. 
+ A machine learning project that predicts whether a patient has a hypertension based on an online dataset.
+ 
